@@ -15,6 +15,7 @@
         <item>Gaming</item>
         <item>Clothing</item>
         <item>Transport</item>
+        <item>Music</item>
         <item>Other</item>
     </string-array>
     <string-array name="day">
