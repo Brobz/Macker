@@ -1,4 +1,4 @@
-package com.recursiveset.macker;
+package com.recursiveset.mymoneypal;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.recursiveset.macker", appContext.getPackageName());
+        assertEquals("com.recursiveset.mymoneypal", appContext.getPackageName());
     }
 }

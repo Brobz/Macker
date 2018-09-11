@@ -1,4 +1,4 @@
-package com.recursiveset.macker;
+package com.recursiveset.mymoneypal;
 
 import org.junit.Test;
 

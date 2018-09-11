@@ -1,4 +1,4 @@
-package com.recursiveset.macker;
+package com.recursiveset.mymoneypal;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

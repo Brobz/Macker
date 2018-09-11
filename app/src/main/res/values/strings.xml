@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Macker (Money Tracker)</string>
+    <string name="app_name">My Money Pal</string>
     <string name="edit_name">Transaction Name</string>
     <string name="edit_amount">Transaction Amount</string>
     <string name="push_transaction">Push</string>
@@ -16,6 +16,7 @@
         <item>Clothing</item>
         <item>Transport</item>
         <item>Music</item>
+        <item>Income</item>
         <item>Other</item>
     </string-array>
     <string-array name="day">
